@@ -1,11 +1,13 @@
 # Simple Python Calculator
 
 This is a beginner Python calculator project.
-
-Features:
+It supports:
 - Addition
 - Subtraction
 - Multiplication
 - Division
 
-Language: Python
+Concepts used:
+- if / else
+- user input
+- basic arithmetic
